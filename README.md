@@ -36,11 +36,13 @@ in the initial phase of the data cleaning and preparation, we perform the follow
 ### data Analysis
 ---
 
-
-### DATA V
 ```SQL
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
+
+### DATA V
+![EXCEL CHART](https://github.com/user-attachments/assets/af2950ae-7bb6-4392-b968-3b828525497b)
+
 
   
