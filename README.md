@@ -35,6 +35,9 @@ in the initial phase of the data cleaning and preparation, we perform the follow
 
 ### data Analysis
 ---
+
+
+### DATA V
 ```SQL
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
